@@ -163,15 +163,7 @@ def home(df):
     #     st.write("Please enter a drug name.")
     # st.markdown("""---""")
 
-    # # ---- HIDE STREAMLIT STYLE ----
-    # hide_st_style = """
-    #             <style>
-    #             #MainMenu {visibility: hidden;}
-    #             footer {visibility: hidden;}
-    #             header {visibility: hidden;}
-    #             </style>
-    #             """
-    # st.markdown(hide_st_style, unsafe_allow_html=True)
+ 
     # Rest of the code for the home page
 
 
