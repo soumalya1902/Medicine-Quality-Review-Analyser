@@ -227,8 +227,8 @@ def admin(train_df, test_df, df):
 
 # Main function
 def main():
-    st.set_page_config(page_title="Pharmascore : Medicine Quality Review Analyser System", layout="wide")
-    st.title("Pharmascore : Medicine Quality Review Analyser System")
+    st.set_page_config(page_title="Pharmascore : Medicine Quality Review Analysing Tool", layout="wide")
+    st.title("Pharmascore : Medicine Quality Review Analysing Tool")
 
     train_df, test_df, df = get_data_from_excel()
     # Create a navigation bar for tab selection
