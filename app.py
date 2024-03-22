@@ -227,8 +227,8 @@ def admin(train_df, test_df, df):
 
 # Main function
 def main():
-    st.set_page_config(page_title="Medicine Quality Review Analyser", layout="wide")
-    st.title("Medicine Quality Review Analyser")
+    st.set_page_config(page_title="Medicine Quality Review Analyser Application", layout="wide")
+    st.title("Medicine Quality Review Analyser Application")
 
     train_df, test_df, df = get_data_from_excel()
     # Create a navigation bar for tab selection
