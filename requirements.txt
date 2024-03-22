@@ -9,4 +9,4 @@ xgboost
 pycaret
 catboost
 optuna
-Pillow
+pillow
